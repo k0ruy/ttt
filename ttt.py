@@ -63,3 +63,4 @@ ax.axis('off')
 
 # ax[1].plot(border_coordinates_png[:,0], border_coordinates_png[:,1])
 plt.show()
+
