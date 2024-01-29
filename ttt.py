@@ -27,7 +27,7 @@ approx_border_png = cv2.approxPolyDP(largest_contour_png, epsilon_png, True)
 border_coordinates_png = approx_border_png.squeeze()
 border_coordinates_png[:,1] = -border_coordinates_png[:,1]
 
-
+######################
 # Calculate the centroid
 centroid = np.mean(border_coordinates_png, axis=0)
 
@@ -64,3 +64,4 @@ ax.axis('off')
 # plot bali contour
 #ax.plot(border_coordinates_png[:,0], border_coordinates_png[:,1])
 plt.show()
+
