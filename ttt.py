@@ -61,6 +61,6 @@ ax.scatter(np.degrees(sorted_angles), -sorted_distances, s=1)  # Convert angles 
 ax.set_aspect(1/30)
 ax.axis('off')
 
-# ax[1].plot(border_coordinates_png[:,0], border_coordinates_png[:,1])
+# plot bali contour
+# ax.plot(border_coordinates_png[:,0], border_coordinates_png[:,1])
 plt.show()
-
