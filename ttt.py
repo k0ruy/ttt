@@ -62,5 +62,5 @@ ax.set_aspect(1/30)
 ax.axis('off')
 
 # plot bali contour
-# ax.plot(border_coordinates_png[:,0], border_coordinates_png[:,1])
+#ax.plot(border_coordinates_png[:,0], border_coordinates_png[:,1])
 plt.show()
