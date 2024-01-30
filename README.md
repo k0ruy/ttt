@@ -1,6 +1,6 @@
 # Unfolding a circular shape using Radial Unfolding
 
-This small projects helps me in creating the design for a personal tattoo I wanted, from the contour of Bali, Indonesia, to an unrolled version of it, so that it could be printed and wrapped around the arm.
+This small project helped me in creating the design for a personal tattoo I wanted, from the contour of Bali, Indonesia, to an unrolled version of it, so that it could be printed and wrapped around the arm.
 
 I used ChatGPT to help me out in doing so, this is the definition of the "unfolding" method he gave:
 
