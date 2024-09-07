@@ -6,8 +6,8 @@ original:
 
 cross stitching style:
 
-![image]('https://github.com/k0ruy/ttt/blob/main/halftones/orchidea_embroidery.png')
+![image](https://github.com/k0ruy/ttt/blob/main/halftones/orchidea_embroidery.png)
 
 tattoo style:
 
-![image]('https://github.com/k0ruy/ttt/blob/main/halftones/halftone_image_tattoo.png')
+![image](https://github.com/k0ruy/ttt/blob/main/halftones/halftone_image_tattoo.png)
