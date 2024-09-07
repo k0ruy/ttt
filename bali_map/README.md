@@ -8,5 +8,5 @@ I used ChatGPT to help me out in doing so, this is the definition of the "unfold
 
 Below the images from the island of Bali to the shape it resulted in:
 
-![image](https://github.com/k0ruy/ttt/blob/main/shapes/bali_island.png)
-![image](https://github.com/k0ruy/ttt/blob/main/shapes/unfolded.png)
+![image](https://github.com/k0ruy/ttt/blob/main/bali_map/shapes/bali_island.png)
+![image](https://github.com/k0ruy/ttt/blob/main/bali_map/shapes/unfolded.png)
